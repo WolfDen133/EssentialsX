@@ -8,7 +8,7 @@ use pocketmine\block\EndStone;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
 
-class EssentialsX extends PluginBase{
+class Essentials extends PluginBase{
 
     /**
      * @var EssentialsX $instance
@@ -28,7 +28,7 @@ class EssentialsX extends PluginBase{
 
     }
 
-    public static function getInstance(): EssentialsX{
+    public static function getInstance(): Essentials{
 
         return self::$instance;
     }
