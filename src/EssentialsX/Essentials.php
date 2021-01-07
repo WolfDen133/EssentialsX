@@ -21,9 +21,7 @@ class Essentials extends PluginBase{
 
         self::$instance = $this;
         @mkdir($this->getDataFolder());
-        $this->data = new Config($this->getDataFolder(). "config.yml". Config::YAML. [
-            "test" => "1",
-        ]) ;
+      //yaml provider todo
 
 
     }
