@@ -1,0 +1,11 @@
+name: EssentialsX
+description: A port of the spigot plugin "EssentialsX" for PocketmineMP.
+version 0.1
+main: EssentialsX/EssentialsX
+api: 3.0.0
+author: ["xSuper", "WolfDen133", "val(change it)"]
+prefix: "[EssentialsX]"
+
+permissions:
+  essentialsX.master:
+    description: The master permission for EssentialsX.
