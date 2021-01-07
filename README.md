@@ -4,4 +4,5 @@ EssentialsX is a plugin created for **Pocketmine-MP**. This plugin was created a
 
 ## Commands
 - [ ] Repair (fix hand/fix all, Custom cooldowns for every rank (PurePerms))
+- [ ] Add a wiki for permissions
 - [ ] TODO: Add other commands from https://essinfo.xeya.me/commands.html
